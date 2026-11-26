@@ -303,4 +303,4 @@ All components mandated by the Capstone Project specification have been complete
 - *Hardware Chips:* `CPU.hdl`, `Memory.hdl`, `Computer.hdl` pass all official hardware simulator tests.
 - *Two-Pass Assembler:* `assembler.py` achieves 100% bitwise parity on benchmarks and enforces $K space mod space 3 = 1$ diagnostics.
 - *Interactive Box Program:* `Box.asm` compiles cleanly to `Box.hack` with our own assembler and draws the exact $K = 52$ box.
-- *Directory Submission:* Packaged in `/home/tushar/himank/capstone_N2N/` and mirror folder `capstone/`.
+- *Directory Submission:* Packaged cleanly in repository folder `/home/tushar/himank/capstone_N2N/`.

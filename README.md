@@ -213,14 +213,7 @@ capstone_N2N/
 ├── nand2tetris_capstone_report.typ # Typst academic report source code
 ├── nand2tetris_capstone_report.pdf # Compiled publication-grade 4-page PDF report
 ├── README.md                   # Complete documentation and viva guide
-├── assets/                     # Formal simulation and CPU emulator test screenshots
-└── capstone/                   # Official submission mirror folder
-    ├── CPU.hdl
-    ├── Memory.hdl
-    ├── Computer.hdl
-    ├── assembler.py
-    ├── Box.asm
-    └── Box.hack
+└── assets/                     # Formal simulation and CPU emulator test screenshots
 ```
 
 ---
